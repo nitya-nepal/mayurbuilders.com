@@ -1,5 +1,5 @@
 backend:
-  name: GitHub
+  name: git-gateway
   branch: deploy
 
 media_folder: static/img
